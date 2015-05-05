@@ -68,7 +68,7 @@ namespace csXadrez
 
         private  PictureBox caixinha = new PictureBox();
        
-
+        
         public FormChess(Form f)
         {
             InitializeComponent();
